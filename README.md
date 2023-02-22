@@ -7,6 +7,7 @@ PORT= //port number where you want to run localhost project <br>
 EMAIL= //your valid email address <br>
 EMAIL_PASSWORD= //your valid email address password
 MONGO_URI=mongodb+srv://admin:<cluster password>@javascript.24vryw6.mongodb.net/<your database Name>?retryWrites=true&w=majority <br>
+```
 </h6>
 
 
