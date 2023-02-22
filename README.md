@@ -16,7 +16,7 @@ MONGO_URI=mongodb+srv://admin:<cluster password>@javascript.24vryw6.mongodb.net/
 <br>
 
 </h6>
-<h6>Then go to the client folder and run this command **yarn start** and go to the backend folder and run this command **npm start** </h6>
+<h6>Then go to the client folder and run this command <h4>**yarn start**</h4> and go to the backend folder and run this command <h4>**npm start**</h4> </h6>
 
 
 
